@@ -1,0 +1,16 @@
+
+
+select{
+    height: 30px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.cem_width{
+    width: 100%;
+}
+
+.cinquenta_width{
+    width: 50%;
+    margin: 0 5px 0 5px;
+}

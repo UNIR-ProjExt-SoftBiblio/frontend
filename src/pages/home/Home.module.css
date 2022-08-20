@@ -1,0 +1,19 @@
+
+.main{
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+
+}
+
+.home{
+
+    background-color: var(--gray--700);
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}

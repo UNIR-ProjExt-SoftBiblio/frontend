@@ -1,0 +1,10 @@
+
+.fileListContainer{
+    margin: 20px 0 20px 0;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow-y: scroll;
+    height: 100px;
+}

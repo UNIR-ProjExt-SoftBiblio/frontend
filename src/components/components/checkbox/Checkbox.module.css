@@ -1,0 +1,10 @@
+
+.checkboxContainer{
+    margin-top: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.checkboxContainer p{
+    margin: 0;
+}

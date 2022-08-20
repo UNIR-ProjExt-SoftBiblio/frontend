@@ -1,0 +1,8 @@
+
+.fileItemContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 1px var(--gray--700) solid;
+    border-bottom: 0;
+}
